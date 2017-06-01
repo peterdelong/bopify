@@ -1,2 +1,2 @@
 # bopify
-Spotify synchronization app that allows you to bop in sync with friends
+Spotify synchronization tool that facilitates mutual bopping among friends
